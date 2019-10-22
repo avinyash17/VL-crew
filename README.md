@@ -6,7 +6,7 @@
 | Experiment  | Operations on Queue ADT  |
 
 **ABOUT THE EXPERIMENT**
-To demonstrate the mechanism of Insertion and Deletion Operations in Queue using Link-List 
+To demonstrate the mechanism of Insertion and Deletion Operations in Queue using Linked-List 
 
 | Name of Developer | Amit Tripathi |
 |-----------|----------|
