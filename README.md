@@ -6,7 +6,7 @@
 | Experiment  | Operations on Queue ADT  |
 
 **ABOUT THE EXPERIMENT**
-To find the image distance for varying object distances and show the nature of image using concave and convex lens. 
+To demonstrate the mechanism of Insertion and Deletion Operations in Queue using Link-List 
 
 | Name of Developer | Amit Tripathi |
 |-----------|----------|
