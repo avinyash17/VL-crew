@@ -23,6 +23,6 @@ Contributors List
 |1 | Amit Tripathi | Faculty | Information Technology | Rajkiya Engineering College,Banda | amittri13@gmail.com|
 |2 | Anubhav Rawat | Student| Information Technology| Rajkiya Engineering College,Banda| anubhavrawat62@gmail.com|
 |3 | Vinayaka Dwivedi | Student | Information Technology|Rajkiya Engineering College,Banda| dwivedivinayaka99@gmail.com|
-|4 | Avinyash Singh | Student | Information Technology | Rajkiya Engineering College,Banda| avinyash17@gmail.com|
+|4 | Avinyash Singh | Student | Electrical Engineering | Rajkiya Engineering College,Banda| avinyash17@gmail.com|
 |5 | Nayan Gupta | Student | Information Technology | Rajkiya Engineering College,Banda| nayan448@gmail.com|
 
